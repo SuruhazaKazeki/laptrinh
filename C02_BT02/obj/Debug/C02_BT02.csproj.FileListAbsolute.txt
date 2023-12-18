@@ -1,0 +1,12 @@
+D:\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\bin\Debug\C02_BT02.exe.config
+D:\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\bin\Debug\C02_BT02.exe
+D:\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\bin\Debug\C02_BT02.pdb
+D:\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\obj\Debug\C02_BT02.csproj.CoreCompileInputs.cache
+D:\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\obj\Debug\C02_BT02.exe
+D:\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\obj\Debug\C02_BT02.pdb
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\bin\Debug\C02_BT02.exe.config
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\bin\Debug\C02_BT02.exe
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\bin\Debug\C02_BT02.pdb
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\obj\Debug\C02_BT02.csproj.CoreCompileInputs.cache
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\obj\Debug\C02_BT02.exe
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT02\obj\Debug\C02_BT02.pdb

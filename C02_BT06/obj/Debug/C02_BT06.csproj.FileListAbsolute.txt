@@ -1,0 +1,6 @@
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT06\bin\Debug\C02_BT06.exe.config
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT06\bin\Debug\C02_BT06.exe
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT06\bin\Debug\C02_BT06.pdb
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT06\obj\Debug\C02_BT06.csproj.CoreCompileInputs.cache
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT06\obj\Debug\C02_BT06.exe
+D:\tài liệu\Phạm Đức Trọng\C23A.TH13_KTLT_PhamDucTrong\C02_BT06\obj\Debug\C02_BT06.pdb
